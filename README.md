@@ -1,8 +1,7 @@
 
 # Developer-Survey-Result-2020-Insights
 
-This project is focused at demonstrating my mastery of various Python libraries for data analysis. This project makes use of Pandas,NumPy, and Matplotlib libraries primarily.
-The analysis will generate insight, and answer some of the basic questions from the Developer-Survey-Result-2020 data.  
+This project is focused on demonstrating the use of various Python libraries for data analysis. This project makes use of Pandas, NumPy, and Matplotlib libraries primarily. The analysis will generate insight, and answer some of the basic questions from the Developer-Survey-Result-2020 data
 
 - 👋 Hi, I’m @adityabist
 - 👀 I’m interested in Python, specifically Pandas and Matplotlib libraries, for Data Analysis.
