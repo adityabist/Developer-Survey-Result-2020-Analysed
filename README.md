@@ -48,3 +48,5 @@ Jupyter Notebook
  - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
  - https://insights.stackoverflow.com/survey
+ 
+ - Photo by Davide Cantelli on Unsplash
